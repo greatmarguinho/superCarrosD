@@ -1,0 +1,31 @@
+.localizacoes{
+    font-family: 'JetBrains Mono';
+    margin: 24px;
+}
+
+.localizacoes h1{
+    text-align: left;
+    color: #00BFA6;
+    
+}
+
+.localizacoes h2{
+    text-align: center;
+    color: #00BFA6;
+}
+
+.localizacoes div{
+    display: flex;
+    align-items: flex-start;
+    color: #ffff;
+    padding: 36px;
+    justify-content: space-evenly;
+}
+
+.localizacoes p{
+    color: #ffff;
+}
+
+.superCarros {
+    color:#00BFA6;
+}

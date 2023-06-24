@@ -1,0 +1,16 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    
+    padding: 1.1em;
+    background-color: #00BFA6;
+}
+
+.containerNav{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    height: 100px !important;
+    width: 50%;
+}

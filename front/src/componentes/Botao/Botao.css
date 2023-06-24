@@ -1,0 +1,16 @@
+.botao {
+    background-color: #00BFA6;
+    font-weight: 700;
+    font-size: 36px;
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    margin: 32px 0;
+    font-family: 'JetBrains Mono';
+    font-style: normal; 
+    border-style: none;
+}
+
+.botao:hover {
+    color: #95FFD4; 
+}

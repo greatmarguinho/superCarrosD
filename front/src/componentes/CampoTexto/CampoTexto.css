@@ -1,0 +1,32 @@
+
+.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 2px;
+    font-size: 24px;
+    color: #C2C2C2;;
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.campo-texto input {
+    color: #000000;
+    background: #C2C2C2;
+    width: 550px;
+    height: 50px;
+    border: none;
+    font-size: 36px;
+    padding:24px;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
