@@ -36,10 +36,6 @@ const Formulario = () => {
 
                 <CampoTexto obrigatorio={true} label="Valor:" placeholder="Digite o id do valor" />
 
-                <CampoTexto obrigatorio={true} label="Gasto:" placeholder="Digite o id do gasto" />
-
-                <CampoTexto obrigatorio={true} label="Id:" placeholder="Digite o id do veiculo" />
-
                 <div className="Botao-Container">  
                 <Botao>
                     Inserir

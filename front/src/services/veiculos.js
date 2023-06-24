@@ -10,6 +10,6 @@ function createHeaders() {
 
 export async function listVeiculos() {
     const auth = createHeaders()
-    const response = await api.get("/veiculos",auth)
-    return response.data
+    const {data} = await api.get("/veiculos",auth)
+    return data.data
 }
